@@ -2,6 +2,3 @@
 - Monday
 - February 
 ## 2026/02/02,26
-- Tuesday
-- February
-- 2nd
