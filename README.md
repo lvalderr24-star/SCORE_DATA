@@ -3,6 +3,3 @@
 - February 
 ## 2026/02/02,26
 ## 2026/02/05,26
-- Thursday
-- February
-- 5
